@@ -151,6 +151,9 @@ function HeroSection() {
                                                 <MenuItem value="Depression">Depression</MenuItem>
                                                 <MenuItem value="Stress">Stress</MenuItem>
                                                 <MenuItem value="Relationship Issues">Relationship Issues</MenuItem>
+                                                <MenuItem value="Self-esteem">Self-esteem</MenuItem>
+                                                <MenuItem value="Grief">Grief</MenuItem>
+                                                <MenuItem value="Other">Other</MenuItem>
                                             </TextField>
                                         )}
                                     />
